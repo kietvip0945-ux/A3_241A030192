@@ -5,7 +5,6 @@ Bài tập thực hành môn: Lập trình trên các thiết bị di động (I
 ## Thông tin sinh viên
 - Họ và tên: Lê Hoàng Anh Kiệt
 - MSSV: 241A030192
-- Lớp: CNTT – LTDD
 
 ## Môi trường thử nghiệm
 - Công cụ: Android Studio Ladybug | 2024.2.1
